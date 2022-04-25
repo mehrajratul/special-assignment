@@ -1,0 +1,91 @@
+[
+    {
+        "key": "1",
+        "name": "IT 210: Web Application Development.",
+        "instructor": "Jhankar Mahbub",
+        "priceFraction": "36",
+        "totalEnrolls": 36,
+        "star": 5,
+        "img": "https://i.ibb.co/L0SG5nr/1.jpg",
+        "price": 68.36,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae eligendi commodi molestiae aut nulla. Ipsam illo fugit sapiente similique, soluta natus possimus quasi saepe nihil ipsum eligendi. Ratione, officiis distinctio."        
+    },
+    {
+        "key": "2",
+        "name": "IT 226: Enterprise Information Systems.",
+        "instructor": "Jhankar Mahbub",
+        "priceFraction": "36",
+        "totalEnrolls": 36,
+        "star": 5,
+        "img": "https://i.ibb.co/L0SG5nr/1.jpg",
+        "price": 68.36,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae eligendi commodi molestiae aut nulla. Ipsam illo fugit sapiente similique, soluta natus possimus quasi saepe nihil ipsum eligendi. Ratione, officiis distinctio."
+    },
+    {
+        "key": "3",
+        "name": "IT 227: E-Commerce Technologies.",
+        "instructor": "Jhankar Mahbub",
+        "priceFraction": "36",
+        "totalEnrolls": 36,
+        "star": 5,
+        "img": "https://i.ibb.co/L0SG5nr/1.jpg",
+        "price": 68.36,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae eligendi commodi molestiae aut nulla. Ipsam illo fugit sapiente similique, soluta natus possimus quasi saepe nihil ipsum eligendi. Ratione, officiis distinctio."
+    },
+    {
+        "key": "4",
+        "name": "IT 238: Networking and Client/Server Computing.",
+        "instructor": "Jhankar Mahbub",
+        "priceFraction": "36",
+        "totalEnrolls": 36,
+        "star": 5,
+        "img": "https://i.ibb.co/vQvDzFW/4.jpg",
+        "price": 68.36,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae eligendi commodi molestiae aut nulla. Ipsam illo fugit sapiente similique, soluta natus possimus quasi saepe nihil ipsum eligendi. Ratione, officiis distinctio."
+    },
+    {
+        "key": "5",
+        "name": "IT 280: Internet Security.",
+        "instructor": "Jhankar Mahbub",
+        "priceFraction": "36",
+        "totalEnrolls": 36,
+        "star": 5,
+        "img": "https://i.ibb.co/vQvDzFW/4.jpg",
+        "price": 68.36,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae eligendi commodi molestiae aut nulla. Ipsam illo fugit sapiente similique, soluta natus possimus quasi saepe nihil ipsum eligendi. Ratione, officiis distinctio."
+    },
+    {
+        "key": "6",
+        "name": "IT 295: IT-Based Application Project.",
+        "instructor": "Jhankar Mahbub",
+        "priceFraction": "36",
+        "totalEnrolls": 36,
+        "star": 5,
+        "img": "https://i.ibb.co/vQvDzFW/4.jpg",
+        "price": 68.36,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae eligendi commodi molestiae aut nulla. Ipsam illo fugit sapiente similique, soluta natus possimus quasi saepe nihil ipsum eligendi. Ratione, officiis distinctio."
+    },
+    {
+        "key": "7",
+        "name": "IT 299: Graduate Seminar.",
+        "instructor": "Jhankar Mahbub",
+        "priceFraction": "36",
+        "totalEnrolls": 36,
+        "star": 5,
+        "img": "https://i.ibb.co/L0SG5nr/1.jpg",
+        "price": 68.36,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae eligendi commodi molestiae aut nulla. Ipsam illo fugit sapiente similique, soluta natus possimus quasi saepe nihil ipsum eligendi. Ratione, officiis distinctio."
+    },
+    {
+        "key": "8",
+        "name": "IT 299: Graduate Seminar.",
+        "instructor": "Jhankar Mahbub",
+        "priceFraction": "36",
+        "totalEnrolls": 36,
+        "star": 5,
+        "img": "https://i.ibb.co/L0SG5nr/1.jpg",
+        "price": 68.36,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae eligendi commodi molestiae aut nulla. Ipsam illo fugit sapiente similique, soluta natus possimus quasi saepe nihil ipsum eligendi. Ratione, officiis distinctio."
+    }
+    
+]

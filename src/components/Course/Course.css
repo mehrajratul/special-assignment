@@ -1,0 +1,8 @@
+.cards-container{
+    margin: 10px;
+    float: left;
+}
+.cards img{
+    height: 100%;
+    width: 100%;
+}
